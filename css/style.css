@@ -1,0 +1,72 @@
+.wrapper{
+    width:80%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+.left{
+    position:fixed;
+    width: 15%;
+    height:auto;
+    overflow: hidden;
+    float:left;
+    
+}
+
+.content{
+    height:auto;
+    margin-left: 22%;
+    overflow: scroll;
+}
+
+.pic{
+    margin-top:10%;
+
+}
+
+.pic img{
+    width:100%;
+}
+
+h1{
+    font-family: "Slabo 27px", serif;
+    font-size:36px;
+    text-align: center;
+}
+
+h2{
+     font-family: "Slabo 27px", serif;
+    font-size:28px;
+    text-align: left;
+}
+
+h4{
+    font-family: "Slabo 27px", serif;
+    font-size:16px;
+    text-align: center;
+}
+
+p{
+    font-family:"Roboto",sans-serif;
+    font-size:20px;
+    font-weight: 100;
+}
+
+a{
+    color:inherit;
+    font-family: "Slabo 27px", serif;
+    font-size:28px;
+    text-align: left;
+    text-decoration: none;
+}
+
+a:visited{
+color:#4e4e4e;
+}
+
+.social{
+    text-align: center;
+}
+
